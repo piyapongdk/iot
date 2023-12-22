@@ -3,7 +3,7 @@
 
 #define SSID        "KylieMinogue"
 #define PASSWORD    "abcdabcd"
-#define LINE_TOKEN  "1Kg86Xcj090auv8bcBBvdxXlnCiIIBosMMOoaKb9sop"
+#define LINE_TOKEN  "1Kg86Xcj090auv8bcBBvdxXlnCiIIBosMMOoaKb9"
 
 DHT11 dht11(13);
 
